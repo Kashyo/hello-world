@@ -4,7 +4,7 @@ Hello,
 
 This is just an example file to try on GitHub.
 
-Second changes for within README
+Second changes for within README1
 
 Third changes via pyCharm.
 
